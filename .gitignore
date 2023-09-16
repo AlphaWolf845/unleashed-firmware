@@ -69,4 +69,5 @@ PVS-Studio.log
 
 .gdbinit
 
-/fbt_options_local.py
+/fbt_options_local.py/fbt_options_local.py
+.fake
